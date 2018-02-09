@@ -49,13 +49,13 @@ define([
         // 'error.code.DAHGETQUERYTAGVALUES509': '',
         // 'error.code.AXEGETQUERYTAGVALUES513': '',
         // 'error.code.DAHGETQUERYTAGVALUES513': '',
-        'error.code.DAHGETQUERYTAGVALUES502': 'Invalid query text: all terms were stopwords, too short, or incorrectly formatted',
-        'error.code.AXEGETQUERYTAGVALUES502': 'Invalid query text: all terms were stopwords, too short, or incorrectly formatted',
-        'error.code.DAHQUERY502': 'Invalid query text: all terms were stopwords, too short, or incorrectly formatted',
-        'error.code.AXEQUERY502': 'Invalid query text: all terms were stopwords, too short, or incorrectly formatted',
-        'error.code.DAHGETQUERYTAGVALUES512': 'Find did not understand your search text',
-        'error.code.AXEGETQUERYTAGVALUES512': 'Find did not understand your search text',
-        'error.code.DAHQUERY512': 'Find did not understand your search text',
-        'error.code.AXEQUERY512': 'Find did not understand your search text'
+        'error.code.DAHGETQUERYTAGVALUES502': 'รูปแบบข้อความไม่ถูกต้อง: เป็นคำย่อ, คำสั้นไป, หรือรูปแบบไม่ถูกต้อง',
+        'error.code.AXEGETQUERYTAGVALUES502': 'รูปแบบข้อความไม่ถูกต้อง: เป็นคำย่อ, คำสั้นไป, หรือรูปแบบไม่ถูกต้อง',
+        'error.code.DAHQUERY502': 'รูปแบบข้อความไม่ถูกต้อง: เป็นคำย่อ, คำสั้นไป, หรือรูปแบบไม่ถูกต้อง',
+        'error.code.AXEQUERY502': 'รูปแบบข้อความไม่ถูกต้อง: เป็นคำย่อ, คำสั้นไป, หรือรูปแบบไม่ถูกต้อง',
+        'error.code.DAHGETQUERYTAGVALUES512': 'ระบบค้นหาไม่เข้าใจคำในการค้นหาของคุณ',
+        'error.code.AXEGETQUERYTAGVALUES512': 'ระบบค้นหาไม่เข้าใจคำในการค้นหาของคุณ',
+        'error.code.DAHQUERY512': 'ระบบค้นหาไม่เข้าใจคำในการค้นหาของคุณ',
+        'error.code.AXEQUERY512': 'ระบบค้นหาไม่เข้าใจคำในการค้นหาของคุณ'
     });
 });
